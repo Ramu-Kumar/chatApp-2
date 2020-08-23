@@ -1,0 +1,10 @@
+body {
+  margin: 0;
+  font-family: manrope_custom;
+}
+
+
+@font-face {
+  font-family: manrope_custom;
+  src: url(Manrope-Light.woff);
+}
